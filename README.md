@@ -1,4 +1,4 @@
-![Education Database Schema](https://i.pinimg.com/736x/20/3f/21/203f21ee641b1d482cd9605c6989429e.jpg)
+
 
 # EducationDB - Base de Datos para Gestión Educativa
 
