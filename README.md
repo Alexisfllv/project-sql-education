@@ -119,3 +119,6 @@ Este esquema proporciona una estructura robusta para la gestión de una platafor
 - Inscripción de usuarios en cursos.
 - Registro de asistencia y calificaciones.
 
+![Diagrama de la base de datos](https://github.com/Alexisfllv/project-sql-education/blob/main/img/drawSQL-image-export-2025-03-17.png?raw=true)
+
+
